@@ -6,3 +6,8 @@
 .navigation {
     display: flex;
 }
+
+.lista {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
